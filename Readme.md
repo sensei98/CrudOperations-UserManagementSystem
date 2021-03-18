@@ -1,5 +1,5 @@
+SCHOOL PHP ASSESSMENT
 
-PHP BASICS
 hosted on webhost
 url = https://tsaglisamuel.000webhostapp.com
 
