@@ -1,9 +1,9 @@
 <?php
 
-    $host = "server.infhaarlem.nl";     
-    $user = "s641496";
-    $password = "j6mouYyw";
-    $dbName = "s641496_phpEndAssignment";
+    $host = "########";     
+    $user = "#######";
+    $password = "#######";
+    $dbName = "#########";
 
     $conn = mysqli_connect($host, $user, $password, $dbName);
 
